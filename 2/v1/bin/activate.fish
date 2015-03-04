@@ -27,7 +27,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/cshome/bqi/CMPUT410/lab6/2/v1"
+set -gx VIRTUAL_ENV "/cshome/bqi/CMPUT410/lab6/CMPUT410_2015WINTER_LAB6/2/v1"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
